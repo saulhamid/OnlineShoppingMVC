@@ -1,0 +1,27 @@
+﻿@model OnlineShoppingStore.Domain.Entity.Cart
+<div class="navbar-right btn btn-info navbar-btn">
+    @{
+        var username = HttpContext.Current.User.Identity.Name;
+        if (username != "")
+        {
+          
+                <span class="">
+                    @Html.ActionLink(username + " - Logout", "logout", "Account")
+                </span>
+           
+        }
+        else
+        {
+            Html.ActionLink("Login", "login", "Account");
+        }
+    }
+</div>
+<div class="navbar-right">
+    @Html.ActionLink("CheckOut", "Index", "Cart",
+   new { returUrl = Request.Url.PathAndQuery }, new { @class="btn btn-default navbar-btn"})
+</div>
+<div class="navbar-text navbar-right">
+    <b>Your Cart:</b>
+    @Model.lines.Sum(x =>x.Quantity) item(c),
+    @Model.ComputeTotalValue().ToString("c", System.Globalization.CultureInfo.CreateSpecificCulture("bn-BD"));
+</div>

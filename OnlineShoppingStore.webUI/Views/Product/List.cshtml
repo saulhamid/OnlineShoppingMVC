@@ -1,0 +1,16 @@
+﻿@model OnlineShoppingStore.webUI.Models.ProductListViewModel
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h3 class="alert-info "><span class="glyphicon glyphicon-list-alt"></span> Product List</h3>
+
+@foreach (var a in Model.Products) { 
+@Html.Partial("ProductSummary", a)
+}
+<div>
+    <div class=" pull-right">
+        @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, category = Model.CurrentCategory }))
+    </div>
+</div>

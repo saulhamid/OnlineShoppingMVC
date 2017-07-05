@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKrMNAltPxkycB5al5ZW9kQAAAAACAAAAAAAQZgAAAAEAACAAAAD6z2girCwxzqBT5tPdXPTxj7LR7GDHTZ99rymayjzGFgAAAAAOgAAAAAIAACAAAABzh3rhTenchZ4l9mZfK2QhCUneoAya9u4RxH8ZKQLfdyAAAAAnooU2pHKA0hq9+9k/5En23kw7w4YIAQjqrZN4brWoaEAAAAA62THGk++6/qPgjoGuDGgFz1QT5EwQcIBxhnSuvX12E8TYlV5WGfSPRueDqo2rslRz2i6o1zyyorrOrX0dxh7I</EncryptedPassword>
+    <_PublishTargetUrl>F:\saul\New folder</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/OnlineShoppingStore.mdf">
+      <publishTime>12/06/2015 01:17:05</publishTime>
+    </File>
+    <File Include="App_Data/OnlineShoppingStore_log.ldf">
+      <publishTime>12/06/2015 01:17:06</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>12/02/2015 23:11:24</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>12/02/2015 23:11:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>12/02/2015 23:14:08</publishTime>
+    </File>
+    <File Include="bin/Moq.dll">
+      <publishTime>12/02/2015 23:14:53</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>12/02/2015 23:14:08</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Common.dll">
+      <publishTime>12/02/2015 23:14:08</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Mvc.dll">
+      <publishTime>12/02/2015 23:14:08</publishTime>
+    </File>
+    <File Include="bin/OnlineShoppingStore.Domain.dll">
+      <publishTime>12/06/2015 01:49:52</publishTime>
+    </File>
+    <File Include="bin/OnlineShoppingStore.webUI.dll">
+      <publishTime>12/06/2015 01:49:53</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>12/02/2015 23:10:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>12/02/2015 23:10:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>12/02/2015 23:10:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>12/02/2015 23:10:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>12/02/2015 23:10:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>12/02/2015 23:10:50</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>12/02/2015 23:14:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/02/2015 23:10:48</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>12/03/2015 02:18:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>12/03/2015 00:01:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>12/03/2015 00:01:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>12/03/2015 00:01:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>12/03/2015 00:01:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>12/03/2015 00:01:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>12/03/2015 00:01:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>12/03/2015 00:01:10</publishTime>
+    </File>
+    <File Include="Views/Account/login.cshtml">
+      <publishTime>12/06/2015 00:13:35</publishTime>
+    </File>
+    <File Include="Views/Admin/Create.cshtml">
+      <publishTime>12/05/2015 13:58:01</publishTime>
+    </File>
+    <File Include="Views/Admin/Edite.cshtml">
+      <publishTime>12/05/2015 14:00:34</publishTime>
+    </File>
+    <File Include="Views/Admin/Index.cshtml">
+      <publishTime>12/05/2015 03:29:03</publishTime>
+    </File>
+    <File Include="Views/Cart/Checkout.cshtml">
+      <publishTime>12/05/2015 00:30:11</publishTime>
+    </File>
+    <File Include="Views/Cart/Complete.cshtml">
+      <publishTime>12/05/2015 00:46:08</publishTime>
+    </File>
+    <File Include="Views/Cart/Index.cshtml">
+      <publishTime>12/04/2015 22:00:48</publishTime>
+    </File>
+    <File Include="Views/Cart/ShoppingDetail.cshtml">
+      <publishTime>12/04/2015 22:58:33</publishTime>
+    </File>
+    <File Include="Views/Cart/Summary.cshtml">
+      <publishTime>12/04/2015 21:22:21</publishTime>
+    </File>
+    <File Include="Views/Navigation/Manu.cshtml">
+      <publishTime>12/04/2015 18:42:54</publishTime>
+    </File>
+    <File Include="Views/Product/List.cshtml">
+      <publishTime>12/03/2015 23:49:50</publishTime>
+    </File>
+    <File Include="Views/Shared/ProductSummary.cshtml">
+      <publishTime>12/06/2015 00:03:51</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>12/06/2015 00:19:51</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutAdmin.cshtml">
+      <publishTime>12/06/2015 01:17:29</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>12/06/2015 02:30:11</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>12/03/2015 00:01:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/06/2015 02:30:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

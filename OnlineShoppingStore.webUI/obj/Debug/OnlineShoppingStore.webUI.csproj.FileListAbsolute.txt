@@ -1,0 +1,68 @@
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.webUI.dll.config
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.webUI.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.webUI.pdb
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\EntityFramework.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\EntityFramework.SqlServer.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Moq.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.Web.Common.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.Web.Mvc.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Helpers.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Mvc.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Razor.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.Deployment.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.Razor.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\WebActivatorEx.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\EntityFramework.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\EntityFramework.SqlServer.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Moq.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.Web.Common.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.Web.Mvc.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Razor.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.Deployment.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.Razor.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Helpers.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Mvc.xml
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\obj\Debug\OnlineShoppingStore.webUI.csprojResolveAssemblyReference.cache
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\obj\Debug\OnlineShoppingStore.webUI.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\obj\Debug\OnlineShoppingStore.webUI.pdb
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.Domain.dll
+F:\New folder\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.Domain.pdb
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.webUI.dll.config
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.webUI.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.webUI.pdb
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\EntityFramework.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\EntityFramework.SqlServer.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Moq.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.Web.Common.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.Web.Mvc.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.Domain.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Helpers.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Mvc.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Razor.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\WebActivatorEx.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\OnlineShoppingStore.Domain.pdb
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\EntityFramework.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\EntityFramework.SqlServer.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Moq.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.Web.Common.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\Ninject.Web.Mvc.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Razor.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Helpers.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\bin\System.Web.Mvc.xml
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\obj\Debug\OnlineShoppingStore.webUI.csprojResolveAssemblyReference.cache
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\obj\Debug\OnlineShoppingStore.webUI.dll
+C:\Users\user123\Downloads\OnlineShoppingStoreFinal\OnlineShoppingStore\OnlineShoppingStore.webUI\obj\Debug\OnlineShoppingStore.webUI.pdb

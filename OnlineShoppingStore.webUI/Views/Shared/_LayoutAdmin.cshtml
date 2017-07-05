@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+</head>
+<body style="margin-left:auto;margin-right:auto">
+    <div>
+        
+        @if (TempData["msg"] != null)
+        { 
+        <div class="alert alert-success">@TempData["msg"]</div>
+        }
+       
+            @{
+                var username = HttpContext.Current.User.Identity.Name;
+                if (username != "")
+                {
+                    <h3>
+                        @Html.ActionLink("Online Shopping Store", "List", "Product")
+                    <span class="btn btn-info pull-right">
+                        @Html.ActionLink(username + " - Logout", "logout", "Account")
+                    </span>
+                </h3>
+                }
+                else
+                {
+                    Html.ActionLink("login", "Account");
+                }
+            }
+        
+            @RenderBody()
+        </div>
+</body>
+</html>

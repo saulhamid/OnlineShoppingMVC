@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="saulhamid-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\New\ folder\\OnlineShoppingStore\\OnlineShoppingStore\.webUI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^F:\\New\ folder\\OnlineShoppingStore\\OnlineShoppingStore\.webUI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="saulhamid-001-site1/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^F:\\New\ folder\\OnlineShoppingStore\\OnlineShoppingStore\.webUI\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="EFDBContext-Web.config Connection String" description="" value="Data Source=SQL5017.myASP.NET;Initial Catalog=DB_9DF9EC_saul;User ID=DB_9DF9EC_saul_admin;Password=saul07311821" tags="">
+    <parameterEntry kind="XmlFile" scope="F:\\New\ folder\\OnlineShoppingStore\\OnlineShoppingStore\.webUI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EFDBContext']/@connectionString" />
+  </parameter>
+</parameters>
